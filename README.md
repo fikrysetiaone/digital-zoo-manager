@@ -1,1 +1,5 @@
 # digital-zoo-manager
+
+UTS IPBO
+NAMA : FIKRI SETIAWAN JODI
+NIM : 2311510016
